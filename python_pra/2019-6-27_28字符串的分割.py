@@ -1,5 +1,5 @@
 '''
-字符串和list之间有很多不得不说的事。比如有同学想要用python去自动抓取某个网页上的下载链接，那就需要对网页的代码进行处理。处理的过程中，免不了要在字符串和list之间进行很多操作。
+字符串和list之间有很多不得不说的事。比如有同学想要用python去自动抓取某个网页上的下载链接,那就需要对网页的代码进行处理。处理的过程中,免不了要在字符串和list之间进行很多操作。
 '''
 sentence = ' you can do best , because , good good study , day day up '
 print(sentence.split())
@@ -30,7 +30,7 @@ print(4*[a])
 print('b' in b)
 for x in [1, 2, 3]: print(x, end=" ")
 for x in [1,2,4,6,8]:print(x,end='')
-##输出science end=参数不设置，默认为末尾换行/n，end=''末尾为空所以不换行
+##输出science end=参数不设置,默认为末尾换行/n,end=''末尾为空所以不换行
 #嵌套列表
 a=[1,2,3,4]
 b=[5,6,7,8]
