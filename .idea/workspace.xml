@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0201f284-63aa-487d-862e-1cbbe7d69352" name="默认的" comment="华为微认证 爬图">
-      <change afterPath="$PROJECT_DIR$/2019年8月8日17/input-print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_pra/微信问候.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/caogao" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/re_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/正则测试.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0201f284-63aa-487d-862e-1cbbe7d69352" name="默认的" comment="51cto.2.0">
+      <change afterPath="$PROJECT_DIR$/2019年8月9日09-2-不只是凑代码/exp_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_pra/2019-6-25_1_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_pra/2019-6-25_1_22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_pra/2019-6-26_25list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_pra/2019-6-26_25list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_pra/2019-6-26_if_嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_pra/2019-6-26_if_嵌套.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_pra/2019-6-27_28字符串的分割.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_pra/2019-6-27_28字符串的分割.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_pra/2019-7-10-练习1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_pra/2019-7-10-练习1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_pra/python学习" beforeDir="false" afterPath="$PROJECT_DIR$/python_pra/python学习" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_pra/恺撒密码-明文转密文.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_pra/恺撒密码-明文转密文.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/其他记录/word" beforeDir="false" afterPath="$PROJECT_DIR$/其他记录/word" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/requests-test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,10 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019年8月8日17/input-print.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
+            <state relative-caret-position="1296">
               <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
             </state>
           </provider>
@@ -43,8 +27,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="243">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019年8月9日09-2-不只是凑代码/exp_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -95,26 +88,23 @@
         <option value="$PROJECT_DIR$/爬虫/正则测试.py" />
         <option value="$PROJECT_DIR$/爬虫/requests-test.py" />
         <option value="$PROJECT_DIR$/python_pra/微信问候.py" />
-        <option value="$PROJECT_DIR$/demo.py" />
         <option value="$PROJECT_DIR$/2019年8月8日17/input-print.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/2019年8月9日09-2-不只是凑代码/exp_1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1107" />
-    <option name="y" value="269" />
+    <option name="x" value="85" />
+    <option name="y" value="286" />
     <option name="width" value="1149" />
     <option name="height" value="968" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +116,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,18 +325,25 @@
       <option name="project" value="LOCAL" />
       <updated>1565088869044</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="51cto.2.0">
+      <created>1565262628101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565262628101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1107" y="269" width="1149" height="968" extended-state="0" />
+    <frame x="85" y="286" width="1149" height="968" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49816176" visible="true" weight="0.18541855" />
-      <window_info id="Structure" order="1" sideWeight="0.5018382" side_tool="true" visible="true" weight="0.18541855" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4958084" visible="true" weight="0.18541855" />
+      <window_info id="Structure" order="1" sideWeight="0.50419164" side_tool="true" visible="true" weight="0.18541855" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34772182" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34772182" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39923373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,7 +383,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="默认的" />
     <MESSAGE value="华为微认证 爬图" />
-    <option name="LAST_COMMIT_MESSAGE" value="华为微认证 爬图" />
+    <MESSAGE value="51cto.2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="51cto.2.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -536,17 +535,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.py">
+    <entry file="file://$PROJECT_DIR$/2019年8月8日17/input-print.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="1296">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019年8月8日17/input-print.py">
+    <entry file="file://$PROJECT_DIR$/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="243">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年8月9日09-2-不只是凑代码/exp_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
